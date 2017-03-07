@@ -18,8 +18,10 @@ Tracking a light spot (LED E.g.) in an image is only a feeble and not reliable r
 By switching the light in a (by the camera) known pattern, you can make much more exact predictions about the position of the light.
 
 #example:
+
 Time-------------------------------------------------------------------------->
-Module: 
+
+module: 
 -------------------------------------------------------------------------
 Camera  |take image  | -> | take image | -> | take image ...
 Light   |light off   | -> | light on   | -> | light off ...
