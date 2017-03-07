@@ -32,3 +32,5 @@ CPU     |         save image1        save image2
                                              light source is.
 
 
+
+... by the way. watch this graph in 'raw'
